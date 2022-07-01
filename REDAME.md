@@ -1,0 +1,2 @@
+#this is the first version of a ecommerce web site built using fastapi which is a python framwork and mongodb as a data #base which is nosql database
+#why fastapi because its easy to code and fast and sclable and mongodb  because its handle bigdata i use mongodb in the cloud using mongodb atlas  , i will add in futur stripe api and store image using s3 aws , and add email sending using send grid
